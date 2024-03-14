@@ -1,9 +1,16 @@
+# Project Title - Hacking Simulator
+
 # Created a hacking simulator which has green background and it shows these messages with random delay of 1 to 7 seconds 
 
-  List of Messages that will Appear.
+  # List of Messages that will Appear.
   <br>
   Initializing Hacking ...
+  <br>
   Reading your files ...
+  <br>
   Password Files Detected ...
+  <br>
   Sending all passwords and personal files to server ...
+  <br>
   Cleaning up ...
+  
